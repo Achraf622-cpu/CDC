@@ -65,5 +65,5 @@ Ce projet vise à faciliter l’adoption d’animaux et à améliorer la disponi
 ---
 📢 **Contribuer** : Toute suggestion ou amélioration est la bienvenue !
 🐾 **Licence** : Open-source
-💡 **Contact** : [Votre Email ou Site Web]
+💡 **Contact** : hanzazachraf581@gmail.com
 
